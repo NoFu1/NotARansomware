@@ -38,6 +38,5 @@ After that just use following command to build:
 `gcc main.c crypt.h crypt.c -lssl -lcrypto -o notaransomware`
 
 ### Precompiled versions
-There are currently 2 precompiled versions:
-* notaransomware for Debian 11
-* notaransomwareFEDORA35 for Fedora 35
+
+The compiled version runs on Fedora 35
