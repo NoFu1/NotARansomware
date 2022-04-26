@@ -1,0 +1,5 @@
+/.idea/
+*.iml
+*.gch
+/cmake-build-debug
+CMakeLists.txt
